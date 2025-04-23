@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a passionate and detail-oriented developer currently studying Game Development at ECC Computer & IT College in Japan 🇯🇵, with a strong background in both frontend and backend development 🖥. I have experience working as a freelance developer and a system engineer, and I’ve contributed to projects ranging from interactive web pages to 3D RPG games using C++, DirectX, and Unreal Engine. 👨‍💼
+
+I specialize in building engaging user experiences with tools like React.js, Tailwind CSS, GSAP, and Three.js, and I enjoy creating both visually compelling UI and technically sound game mechanics. I'm always seeking opportunities to grow, collaborate on innovative projects, and deliver meaningful digital experiences—whether it's through storytelling in games or intuitive web design. 🖥
